@@ -65,8 +65,14 @@ Experimenting with AI-assisted development, OpenCode, MCP servers, model routing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-P-N&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-P-N&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abhijith-P-N&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-P-N&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -74,7 +80,10 @@ Experimenting with AI-assisted development, OpenCode, MCP servers, model routing
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhijith-P-N&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Abhijith-P-N&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
 </p>
 
 ---
